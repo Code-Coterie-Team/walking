@@ -19,5 +19,16 @@ body{
     left: 0;
     right: 0;
     bottom: 0;
-    top: 129px
+    top: 129px;
+    position: relative;
+}
+
+.container .left-leg{
+    width: 75px;
+    height: 64px;
+    position: absolute;
+    left: 30px;
+    bottom: 0;
+    top: 66px;
+    right: 0;
 }
