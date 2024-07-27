@@ -23,11 +23,18 @@ body{
     position: relative;
 }
 
+
 .container .left-leg{
-    width: 75px;
-    height: 64px;
     position: absolute;
     left: 30px;
+    bottom: 0;
+    top: 66px;
+    right: 0;
+}
+
+.container .right-leg{
+    position: absolute;
+    left: 110px;
     bottom: 0;
     top: 66px;
     right: 0;
